@@ -82,4 +82,4 @@ bits of exponent at a time, from the most to least significant bits. Each
 iteration then involves squaring the current value 4 times, indexing the table
 of pre-computed Montgomery powers by the exponent bits and performing a
 Montgomery multiplication between the two. Once we have exhausted all exponent
-bits we transform the value out of the Montgomery domain.
+bits we transform the value out of the Montgomery domain.
