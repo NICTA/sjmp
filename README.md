@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/NICTA/sjmp.svg?branch=master)](https://travis-ci.org/NICTA/sjmp)
+
 Secure Java Multiple-Precision (SJMP) Library
 =============================================
 
