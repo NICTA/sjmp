@@ -17,3 +17,5 @@ javacOptions ++= Seq("-source", "1.8", "-target", "1.8")
 
 EclipseKeys.executionEnvironment := Some(EclipseExecutionEnvironment.JavaSE18)
 EclipseKeys.projectFlavor := EclipseProjectFlavor.Java
+
+jacoco.settings
